@@ -5,7 +5,7 @@ I'm second-year CS student at ITMO University, fan of Java and a competitive pro
 My most-recent used languages are:
 
 <!-- GitHub languages section -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CovarianceMomentum&langs_count=5&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CovarianceMomentum&langs_count=6&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
 
 And my overall GitHub activity is:
 
