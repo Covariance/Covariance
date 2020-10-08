@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- GitHub stats section -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CovarianceMomentum&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
