@@ -1,20 +1,13 @@
 ### Hi there 👋
 
-<!--
-**CovarianceMomentum/CovarianceMomentum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm second-year CS student at ITMO University, fan of Java and a competitive programming enthusiast.
 
-Here are some ideas to get you started:
+My most-recent used languages are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub languages section -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CovarianceMomentum&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+And my overall GitHub activity is:
 
 <!-- GitHub stats section -->
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CovarianceMomentum&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
