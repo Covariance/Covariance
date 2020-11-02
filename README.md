@@ -2,7 +2,7 @@
 
 I'm second-year CS student at ITMO University, fan of Java and a competitive programming enthusiast.
 
-<!-- GitHub stats section -->
+<!-- Stats section -->
 <div class="stats">
   <table cellpadding="0" cellspacing="0">
     <tr>
