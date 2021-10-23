@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm second-year CS student at ITMO University and a competitive programming enthusiast.
+I'm third-year CS student at ITMO University and a competitive programming enthusiast.
 
 <!-- Stats section -->
 <div class="stats">
